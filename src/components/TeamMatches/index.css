@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.team-banner-image {
+  width: 100%;
+}
+.team-match-bg-container {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  background-size: cover;
+  min-height: 100vh;
+}
+.recent-team-list-container {
+  list-style-type: none;
+  display: flex;
+}
+.recent-team-list-items {
+  display: flex;
+  flex-wrap: wrap;
+}
